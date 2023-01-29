@@ -1,11 +1,12 @@
 # Duino coin LCD
-## _-One for all and all for one-_
+## _-Sharing is the best-_
 
 [![N|Solid](https://raw.githubusercontent.com/revoxhere/duino-coin/master/Resources/duco.ico)](https://duinocoin.com/)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://app.travis-ci.com/github/HEmbedded/Duino-coin-LCD)
 ![](https://komarev.com/ghpvc/?username=HEmbedded&color=green)
 
+# Click here -> [Link Video](https://youtu.be/oKUaQH2_LJ4) 
 ## Features
 ### Display on LCD 16x2
 - Balance
@@ -35,8 +36,14 @@ And of course Duino coin LCD itself is open source with a [public repository][di
 
 ## Wiring
 ![Wiring](https://github.com/HEmbedded/Duino-coin-LCD/blob/main/Wiring.png)
-
-
+### Part list
+- DC Fan 5V 40x40
+- LCD 16x2 with I2C
+- Amp (10A) and voltmeter module
+- PCB board: 1 = 5x7cm, 2 = 2x7cm
+- DC-DC adjustable step-down voltage regulator module
+- ESP01-s (ESP8266, ESP01...any have I2C)
+- 2x screw m2-10mm
 ## Future features
 - Video tutorial for editing code
 - OLED
@@ -44,7 +51,7 @@ And of course Duino coin LCD itself is open source with a [public repository][di
 - App and web control (Alarm...)
 - Automatically turn off the LED when it's dark outside
 - IOT
-- ...
+- Adding Vietnamese language
 
 ## Contact
 - [Facebook] - Feel free when contact for bug, error, more feature...
